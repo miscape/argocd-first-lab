@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/TUO-UTENTE/gitops-lab.git
+    repoURL: https://github.com/miscape/argocd-first-lab.git
     targetRevision: main
     path: apps/nginx
 
